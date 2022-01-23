@@ -21,6 +21,8 @@ Storage Access
 * ls
 * cd Termux_Package'
 * ls
+* chmod +x termux-package.py
+* ls
 * python termux-package.py
 
 
