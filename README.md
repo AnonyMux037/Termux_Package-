@@ -3,8 +3,6 @@ This Tool is created for beginners to download basic packages of Termux.
 
 # Available On
 Termux
-Kali Linux
-Ubuntu 
 
 # Tested On
 Termux
