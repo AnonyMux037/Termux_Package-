@@ -8,9 +8,9 @@ Termux
 Termux
 
 # Requirements 
-Internet 
-Python and Github
-Storage Access 
+* Internet 
+* Python and Github
+* Storage Access 
 
 # Installation [Termux]
 * pkg update && pkg upgrade 
